@@ -1,0 +1,15 @@
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\bin\Debug\Reproductor-de-Musica2.exe.config
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\bin\Debug\Reproductor-de-Musica2.exe
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\bin\Debug\Reproductor-de-Musica2.pdb
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\obj\Debug\Reproductor-de-Musica2.csprojAssemblyReference.cache
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\obj\Debug\Reproductor-de-Musica2.csproj.ResolveComReference.cache
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\obj\Debug\Reproductor_de_Musica2.Form1.resources
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\obj\Debug\Reproductor_de_Musica2.Properties.Resources.resources
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\obj\Debug\Reproductor-de-Musica2.csproj.GenerateResource.cache
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\obj\Debug\Reproductor-de-Musica2.exe
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\obj\Debug\Reproductor-de-Musica2.pdb
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Reproductor-de-Musica2\Reproductor-de-Musica2\obj\Debug\Reproductor_de_Musica2.Form2.resources
